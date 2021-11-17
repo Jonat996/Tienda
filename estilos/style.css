@@ -1,0 +1,43 @@
+
+
+h1{
+    
+    font-family: 'Cinzel', serif;
+    color: brown;
+    text-align: center;
+    padding: 10px;
+    
+}
+h2,h3{
+    font-family: 'Cinzel', serif;
+    padding-bottom: 1%;
+}
+input{
+border-radius: 7px;
+border-color: brown;
+color: brown;
+}
+#resultado{
+    padding-top: 2%;
+
+}
+table{
+    
+    font-family: 'Cinzel', serif;
+    font-family: 'Teko', sans-serif;
+    color:brown;
+    
+
+}
+
+th, td {
+    width: 1%;
+    border: 1px solid #000;
+    border-spacing: 2;
+}
+.form{
+    padding-bottom: 3%;
+}
+.acceso,h3{
+    text-align: center;
+}
